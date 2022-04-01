@@ -1,0 +1,226 @@
+:root {
+  --red-1:#3f1413;
+  --red-2:#531a19;
+  --red-3:#66211f;
+  --red-4:#7a2725;
+  --red-5:#8e2d2b;
+  --red-6:#a13431;
+  --red-7:#b53a37;
+  --red-alert: #f04747;
+
+  --gray-1:#5c5c5c;
+  --gray-2:#696969;
+  --gray-3:#767676;
+  --gray-4:#838383;
+  --gray-5:#8f8f8f;
+  --gray-6:#9c9c9c;
+  --gray-7:#a9a9a9;
+
+  --main-bg-color: var(--red-4);
+  --menu-text-color: var(--gray-7);
+  --titlebar-bg-color: var(--red-2);
+  --titlebar-bg-hover: var(--red-3);
+  --titlebar-bg-hover-alert: var(--red-alert) ;
+  --titlebar-button-color: var(--gray-7);;
+  --menu-button-hover-color: var(--red-3);
+  --menu-button-selected-color: var(--red-1);
+
+  --titlebar-height: 25px;
+  --lateral-border-width: 70px; 
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  text-align: center;
+  font-size: 3rem;
+  font-family: calibri;
+  color: white;
+}
+
+div .react-tagsinput {
+  font-size: 1rem;
+  text-align: initial;
+  padding-top: 0;
+  overflow: inherit;
+}
+
+.react-tagsinput-tag {
+  padding-bottom:0;
+}
+
+label {
+  font-size:1rem;
+  text-align: initial;
+}
+
+form input {
+  font-size:1rem;
+  height: 2.5rem;
+  width: 100%;
+}
+
+form button {
+  margin: 5px;
+}
+
+.form-group {
+  margin-bottom: 0.2rem;
+}
+
+.background {
+  height: 100%;
+  width: 100%;
+}
+
+.main-text {
+  font-size: 15px;
+  width: 100%;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  white-space: nowrap;
+}
+
+.menu-button {
+  width: 100%;
+  height: 3.5rem;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 10px;
+  background-color: var(--titlebar-bg-color);
+  border: 0;
+  border-left: solid transparent;
+}
+
+.menu-button i {
+  color: var(--menu-text-color);
+  font-size: 20px;
+}
+
+.menu-button span {
+  font-size: 9px;
+  color: var(--menu-text-color);
+}
+
+.menu-button:hover {
+  background-color: var(--menu-button-hover-color);
+}
+
+.menu-button:focus {
+  outline: none;
+}
+
+.menu-button-selected {
+  background-color: var(--menu-button-selected-color);
+  border-left: solid var(--gray-7);
+}
+
+#appIcon {
+  width:50px;
+  height:50px;
+  margin: auto;
+	position: relative;
+  left: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#content {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  background-color: var(--main-bg-color);
+  align-items: center;
+}
+
+#lateralBorder {
+  background-color: var(--titlebar-bg-color);
+  height: 100%;
+  width: var(--lateral-border-width);
+  position: fixed;
+  z-index:2;
+}
+
+.btn-info {
+  background-color: var(--red-3);
+  border-color: var(--red-3);
+}
+
+.btn-info:active {
+  background-color: var(--red-2);
+  border-color: var(--red-4);
+}
+
+.btn-info:focus {
+  background-color: var(--red-2);
+  border-color: var(--red-4);
+  box-shadow: 0 0 0 0.2rem rgba(181, 58, 55, 0.5);
+}
+
+.btn-info:hover {
+  background-color: var(--red-2);
+  border-color: var(--red-4);
+}
+
+.btn-info:visited {
+  background-color: var(--red-2);
+  border-color: var(--red-4);
+}
+
+.btn-info:not(:disabled):not(.disabled):active, .btn-info:not(:disabled):not(.disabled).active, .show > .btn-info.dropdown-toggle {
+  background-color: var(--red-2);
+  border-color: var(--red-4);
+}
+
+.btn-info:not(:disabled):not(.disabled):active:focus, .btn-info:not(:disabled):not(.disabled).active:focus, .show > .btn-info.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(181, 58, 55, 0.5);
+}
+
+.search {
+  position: fixed;
+  margin: 0;
+  left: var(--lateral-border-width);
+  top: var(--titlebar-height);
+  z-index:2;
+}
+
+.screen-title {
+  margin-top: 50px;
+}
+
+.searchBar {
+  color: white;
+  padding: 6px;
+  border-style: solid;
+  border-right: 0;
+  font-size: 17px;
+  background-color: var(--red-3);
+  border-color: var(--red-5);
+}
+
+.searchBar:focus {
+  outline: none;
+}
+
+#searchButton{
+  font-size: 17px;
+  border: 2px;
+  border-left: 0;
+  border-radius: 0;
+  border-style: solid;
+  border-color: var(--red-5);
+}
+
+#workspace {
+  margin-left: var(--lateral-border-width);
+  margin-top: var(--titlebar-height);
+  width: 100%;
+  min-height: 100%;
+  background-color: var(--main-bg-color);
+}

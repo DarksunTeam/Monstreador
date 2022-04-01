@@ -1,0 +1,57 @@
+li.card-item {
+    background: #FAFAFA;
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.02);
+    border-radius: 2px;
+    padding: 20px;
+    margin: 15px;
+    list-style-type: none;
+    height: 250px;
+}
+
+.card-info strong {
+    display: block;
+    font-size: 16px;
+    color: #333;
+}
+
+.card-info .card-subtitles {
+    font-size: 15px;
+    color: #999;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-description {
+    position: absolute;
+    float: right;
+    bottom: 4rem;
+    left: 0;
+    right: 0;
+}
+
+li.card-item p {
+    color: #666;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 10px 0;
+}
+
+li.card-item button {
+    font-size: 14px;
+    text-decoration: none;
+    orientation: right;
+}
+
+.card-item {
+    position: relative;
+}
+
+.btn-card {
+    position: absolute;
+    float: right;
+    right: 10px;
+    bottom: 10px;
+}

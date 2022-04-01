@@ -1,0 +1,46 @@
+header {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    background-color: var(--titlebar-bg-color);
+    color: black;
+    align-self: stretch;
+    -webkit-app-region: drag;
+    height: var(--titlebar-height);
+    position: fixed;
+    width: 100%;
+    z-index:2
+}
+
+#titleBar {
+    margin-right: inherit;
+}
+
+.titlebar-option {
+    color: var(--titlebar-button-color);
+    height: var(--titlebar-height);
+    width: 35px;
+    text-align: center;
+    font-size: 1rem;
+    cursor: pointer;
+    -webkit-app-region: no-drag;
+  }
+
+#closeButton:hover {
+    color: white;
+    background-color: var(--titlebar-bg-hover-alert);
+    height: var(--titlebar-height);
+    width: 35px;
+}
+
+#maximizeButton:hover {
+    background-color: var(--titlebar-bg-hover);
+    height: var(--titlebar-height);
+    width: 35px;
+}
+
+#minimizeButton:hover {
+    background-color: var(--titlebar-bg-hover);
+    height: var(--titlebar-height);
+    width: 35px;
+}

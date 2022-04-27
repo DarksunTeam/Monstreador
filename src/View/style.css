@@ -1,11 +1,12 @@
 :root {
-  --red-1:#3f1413;
-  --red-2:#531a19;
-  --red-3:#66211f;
-  --red-4:#7a2725;
-  --red-5:#8e2d2b;
-  --red-6:#a13431;
-  --red-7:#b53a37;
+  --purple-1:#201223;
+  --purple-2:#301a34;
+  --purple-3:#3f2345;
+  --purple-4:#4f2b56;
+  --purple-5:#5f3467;
+  --purple-6:#6e3c78;
+  --purple-7:#7e4589;
+
   --red-alert: #f04747;
 
   --gray-1:#5c5c5c;
@@ -16,14 +17,14 @@
   --gray-6:#9c9c9c;
   --gray-7:#a9a9a9;
 
-  --main-bg-color: var(--red-4);
+  --main-bg-color: var(--purple-4);
   --menu-text-color: var(--gray-7);
-  --titlebar-bg-color: var(--red-2);
-  --titlebar-bg-hover: var(--red-3);
+  --titlebar-bg-color: var(--purple-2);
+  --titlebar-bg-hover: var(--purple-3);
   --titlebar-bg-hover-alert: var(--red-alert) ;
   --titlebar-button-color: var(--gray-7);;
-  --menu-button-hover-color: var(--red-3);
-  --menu-button-selected-color: var(--red-1);
+  --menu-button-hover-color: var(--purple-3);
+  --menu-button-selected-color: var(--purple-1);
 
   --titlebar-height: 25px;
   --lateral-border-width: 70px; 
@@ -37,7 +38,7 @@
 div {
   text-align: center;
   font-size: 3rem;
-  font-family: calibri;
+  font-family: 'word-wrap: break-word;';
   color: white;
 }
 
@@ -121,6 +122,18 @@ form button {
   border-left: solid var(--gray-7);
 }
 
+.add-item-button {
+  color: var(--titlebar-bg-color);
+}
+
+.add-item-button:hover {
+  color: var(--menu-button-hover-color);
+}
+
+.add-item-button:focus {
+  outline: none;
+}
+
 #appIcon {
   width:50px;
   height:50px;
@@ -148,34 +161,34 @@ form button {
 }
 
 .btn-info {
-  background-color: var(--red-3);
-  border-color: var(--red-3);
+  background-color: var(--purple-3);
+  border-color: var(--purple-3);
 }
 
 .btn-info:active {
-  background-color: var(--red-2);
-  border-color: var(--red-4);
+  background-color: var(--purple-2);
+  border-color: var(--purple-4);
 }
 
 .btn-info:focus {
-  background-color: var(--red-2);
-  border-color: var(--red-4);
+  background-color: var(--purple-2);
+  border-color: var(--purple-4);
   box-shadow: 0 0 0 0.2rem rgba(181, 58, 55, 0.5);
 }
 
 .btn-info:hover {
-  background-color: var(--red-2);
-  border-color: var(--red-4);
+  background-color: var(--purple-2);
+  border-color: var(--purple-4);
 }
 
 .btn-info:visited {
-  background-color: var(--red-2);
-  border-color: var(--red-4);
+  background-color: var(--purple-2);
+  border-color: var(--purple-4);
 }
 
 .btn-info:not(:disabled):not(.disabled):active, .btn-info:not(:disabled):not(.disabled).active, .show > .btn-info.dropdown-toggle {
-  background-color: var(--red-2);
-  border-color: var(--red-4);
+  background-color: var(--purple-2);
+  border-color: var(--purple-4);
 }
 
 .btn-info:not(:disabled):not(.disabled):active:focus, .btn-info:not(:disabled):not(.disabled).active:focus, .show > .btn-info.dropdown-toggle:focus {
@@ -200,8 +213,8 @@ form button {
   border-style: solid;
   border-right: 0;
   font-size: 17px;
-  background-color: var(--red-3);
-  border-color: var(--red-5);
+  background-color: var(--purple-3);
+  border-color: var(--purple-5);
 }
 
 .searchBar:focus {
@@ -214,7 +227,7 @@ form button {
   border-left: 0;
   border-radius: 0;
   border-style: solid;
-  border-color: var(--red-5);
+  border-color: var(--purple-5);
 }
 
 #workspace {

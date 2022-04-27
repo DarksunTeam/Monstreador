@@ -45,8 +45,8 @@ class Entity1Screen extends React.Component {
                         <Card key={entity1._id} object={Object.assign(new Entity1(), entity1).convertToCard()} onClick={this.handleButton} />
                     ))}
                 </div>
-                <div>
-                    <FontAwesomeIcon icon={faPlusCircle} onClick={() => this.handleButton(btnNewEntity1)} />
+                <div> 
+                    <FontAwesomeIcon className='add-item-button' icon={faPlusCircle} onClick={() => this.handleButton(btnNewEntity1)} />
                 </div>
             </div>
         );

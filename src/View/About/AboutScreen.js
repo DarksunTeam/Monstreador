@@ -5,10 +5,10 @@ import './AboutScreen.css'
 class AboutScreen extends React.Component {
 
     render() {
-        let appIcon = "/img/electron-logo.png";
+        let appIcon = "/img/monstreador-logo.png";
         if (window && window.process && window.process.type) {
             const ipcRenderer = window.require("electron").ipcRenderer;
-            appIcon = ipcRenderer.sendSync("isDev") ? "/img/react-logo.png" : "/img/electron-logo.png";
+            appIcon = ipcRenderer.sendSync("isDev") ? "/img/monstreador-dev-logo.png" : "/img/monstreador-logo.png";
         }
         return (
             <div className="col">

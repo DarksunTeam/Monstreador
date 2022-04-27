@@ -1,0 +1,50 @@
+@startuml
+!theme blueprint
+left to right direction
+
+class Monstro {
+  -nome : String
+  -forca : Integer
+  -destreza : Integer
+  -constituicao: Integer
+  -inteligencia: Integer
+  -sabedoria: Integer
+  -carisma: Integer
+  -pontosDeVida : Integer
+  -pontosDeMana : Integer
+  -iniciativa : Integer
+  -percepcao : Integer
+  -defesa : Integer
+  -fortitude : Integer
+  -reflexo : Integer
+  -vontade : Integer
+  -velocidadeAndar : Integer
+  -velocidadeEscalar : Integer
+  -velocidadeNadar : Integer
+  -velocidadeVoar : Integer
+  -nd: Integer
+  ..
+  +ValidaND(): void
+}
+
+class Ataque {
+  -nome : String
+  -tipo : String
+  -atributoDano : String
+  -acerto : Integer
+  -quantidadeDeDados : Integer
+  -tipoDeDado : Integer
+  -incrementoDeDano : Integer
+}
+
+class Habilidade {
+  -nome : String
+  -descricao : String
+  -preco : Integer
+}
+
+Monstro "0..*" -up--> "1..*" Ataque : Possui
+Monstro "0..*" ---> "0..*" Habilidade : Possui
+Habilidade -left-> "0..*" Habilidade : Pré-requisito
+
+@enduml

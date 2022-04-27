@@ -1,0 +1,16 @@
+@startuml
+!theme blueprint
+left to right direction
+
+actor "Actor"
+
+(Manter Monstros) <|--- (Filtrar monstros) : Extends
+(Manter Monstros) <|--- (Inclusão de habilidades) : Extends
+(Manter Monstros) ...> (Nivelamento automático) : Include
+
+rectangle V2 {
+Actor --> (Montar Campanha automaticamente)
+(Sugerir Nível) --|> (Manter Monstros) : Extends
+(Manter Habilidades) <--> (Manter Monstros)
+}
+@enduml

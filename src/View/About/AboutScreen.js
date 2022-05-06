@@ -14,10 +14,15 @@ class AboutScreen extends React.Component {
             <div className="col">
                 <img id="centerIcon" alt="" src={appIcon}></img>
                 <div >
-                    <h1>ElectronReactTemplate</h1>
-                    <h3>A template of an electron application using react</h3>
+                    <h1>Monstreador</h1>
+                    <h3>Uma aplicação para criação de monstros de RPG</h3>
                     <h6>Criador: Marcos "Coppola" Gonçalves (Coppolaop)</h6>
                     <h6>Repositório: github.com/coppolaop/ElectronReactTemplate</h6>
+                    <h6><br/></h6>
+                    <h6>Product Owner: Marcos "Coppola" Gonçalves (Coppolaop)</h6>
+                    <h6>Scrum Master: Vitor Abel (vitor-abel)<h6>
+                    </h6>Desenvolvedores:</h6>
+                    <h6>Igor Huayck (Flaigor), Phillipe Ramos (PhillipeRamos) e Vitor Abel (vitor-abel)</h6>
                 </div>
                 <div className="version">
                     <h6>Versão 1.0.0</h6>

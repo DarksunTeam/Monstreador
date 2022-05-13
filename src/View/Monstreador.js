@@ -1,19 +1,19 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
-import { faFlag, faCommentDots } from '@fortawesome/free-solid-svg-icons';
+import { faGhost, faCommentDots } from '@fortawesome/free-solid-svg-icons';
 
 import './style.css'
 
 import ElectronCustomization from './ElectronCustomization/ElectronCustomization';
 import LateralBorder from './LateralBorder/LateralBorder';
 
-import Entity1Screen from './Entity1/Entity1Screen';
+import MonstroScreen from './Monstro/MonstroScreen';
 import AboutScreen from './About/AboutScreen';
 import Entity1Form from './Entity1/Entity1Form';
 
 import FileController from '../Controller/FileController';
 
-class ElectronReactTemplate extends React.Component {
+class Monstreador extends React.Component {
 
   constructor(props) {
     super(props);
@@ -23,7 +23,7 @@ class ElectronReactTemplate extends React.Component {
       selectedCard: null,
       fileController: new FileController(),
       buttons: [
-        { _id: 1, icon: faFlag, text: "Entity1", card: null },
+        { _id: 1, icon: faGhost, text: "Monstro", card: null },
         { _id: 4, icon: faCommentDots, text: "Sobre", card: null }
       ]
     };
@@ -44,7 +44,7 @@ class ElectronReactTemplate extends React.Component {
     this.state.fileController = new FileController();
     switch (this.state.selectedScreen) {
       case 1:
-        return <Entity1Screen changeSelectedScreen={this.changeSelectedScreen} fileController={this.state.fileController} />;
+        return <MonstroScreen changeSelectedScreen={this.changeSelectedScreen} fileController={this.state.fileController} />;
       case 4:
         return <AboutScreen />;
       case 5:
@@ -73,4 +73,4 @@ class ElectronReactTemplate extends React.Component {
   }
 }
 
-export default ElectronReactTemplate;
+export default Monstreador;

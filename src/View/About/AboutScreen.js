@@ -17,7 +17,7 @@ class AboutScreen extends React.Component {
                     <h1>Monstreador</h1>
                     <h3>Uma aplicação para criação de monstros de RPG</h3>
                     <h6>Criador: Marcos "Coppola" Gonçalves (Coppolaop)</h6>
-                    <h6>Repositório: github.com/coppolaop/ElectronReactTemplate</h6>
+                    <h6>Repositório: github.com/DarkSun/Monstreador</h6>
                     <h6><br/></h6>
                     <h6>Product Owner: Marcos "Coppola" Gonçalves (Coppolaop)</h6>
                     <h6>Scrum Master: Vitor Abel (vitor-abel)<h6>

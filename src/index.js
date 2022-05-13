@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ElectronReactTemplate from './View/ElectronReactTemplate';
+import Monstreador from './View/Monstreador';
 
-ReactDOM.render(<ElectronReactTemplate />, document.getElementById('root'));
+ReactDOM.render(<Monstreador />, document.getElementById('root'));

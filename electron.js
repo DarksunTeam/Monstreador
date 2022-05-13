@@ -40,7 +40,7 @@ let mainWindow;
 
 function createWindow() {
   mainWindow = new BrowserWindow({
-    title: 'Tale Manager',
+    title: 'Monstreador',
     width: 800,
     height: 600,
     frame: false,

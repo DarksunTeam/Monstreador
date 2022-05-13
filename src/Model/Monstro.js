@@ -1,4 +1,4 @@
-class Entity1 {
+class Monstro {
     constructor(_id, nome, forca, destreza, constituicao, inteligencia, sabedoria, carisma, pontosDeVida,
         pontosDeMana, iniciativa, percepcao, defesa, fortitude, reflexo, vontade, velocidadeAndar,
         velocidadeEscalar, velocidadeNadar, velocidadeVoar, nd, fileName) {
@@ -31,7 +31,7 @@ class Entity1 {
     }
 
     convertToCard() {
-        return { _id: this._id, title: this.nome, description: this.descricao }
+        return { _id: this._id, title: this.nome, description: this.nd }
     }
 }
 

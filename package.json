@@ -1,9 +1,9 @@
 {
-  "name": "ElectronReactTemplate",
+  "name": "Monstreador",
   "version": "1.0.0",
   "description": "Um sistema para gerenciar personagens de histórias.",
   "license": "Apache-2.0",
-  "repository": "https://github.com/DarksunTeam/ElectronReactTemplate",
+  "repository": "https://github.com/DarksunTeam/Monstreador",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-brands-svg-icons": "^5.14.0",

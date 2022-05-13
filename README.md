@@ -1,4 +1,4 @@
-# ElectronReactTemplate
+# Monstreador
 A template of an electron application using react
 
 ## Start
@@ -24,7 +24,7 @@ yarn dev
 
 ## Versioning
 
-We are using [SemVer](http://semver.org/) for versioning. To see our published versions, take a look on this [repository tags](https://github.com/DarksunTeam/ElectronReactTemplate/tags). 
+We are using [SemVer](http://semver.org/) for versioning. To see our published versions, take a look on this [repository tags](https://github.com/DarksunTeam/Monstreador/tags). 
 
 ## Creator
 

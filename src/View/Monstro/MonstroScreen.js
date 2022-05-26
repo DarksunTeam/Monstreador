@@ -41,7 +41,7 @@ class MonstroScreen extends React.Component {
                     </div>
                 </div>
                 <div className="row">
-                    {this.state.monstros.filter(monstro => monstro.name.toUpperCase().includes(this.state.filter.toUpperCase())).map(monstro => (
+                    {this.state.monstros.filter(monstro => monstro.nome.toUpperCase().includes(this.state.filter.toUpperCase())).map(monstro => (
                         <Card key={monstro._id} object={Object.assign(new Monstro(), monstro).convertToCard()} onClick={this.handleButton} />
                     ))}
                 </div>

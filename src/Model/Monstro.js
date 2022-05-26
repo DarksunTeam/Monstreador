@@ -31,7 +31,7 @@ class Monstro {
     }
 
     convertToCard() {
-        return { _id: this._id, title: this.nome, description: this.nd }
+        return { _id: this._id, title: this.nome, description: this.nd, subtitles: [] }
     }
 }
 

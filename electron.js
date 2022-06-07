@@ -40,11 +40,11 @@ let mainWindow;
 
 function createWindow() {
   mainWindow = new BrowserWindow({
-    title: 'Tale Manager',
+    title: 'Monstreador',
     width: 800,
     height: 600,
     frame: false,
-    icon: `${__dirname}/public/img/electron-logo.png`,
+    icon: `${__dirname}/public/img/monstreador-logo.png`,
     webPreferences: {
       nodeIntegration: true
     },
@@ -56,7 +56,7 @@ function createWindow() {
 
   if (isDev) {
     //mainWindow.webContents.openDevTools();
-    mainWindow.setIcon(path.join(__dirname, '/public/img/react-logo.png'));
+    mainWindow.setIcon(path.join(__dirname, '/public/img/monstreador-dev-logo.png'));
   }
 
   mainWindow.on('closed', () => {

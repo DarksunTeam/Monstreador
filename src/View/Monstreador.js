@@ -9,7 +9,7 @@ import LateralBorder from './LateralBorder/LateralBorder';
 
 import MonstroScreen from './Monstro/MonstroScreen';
 import AboutScreen from './About/AboutScreen';
-import Entity1Form from './Entity1/Entity1Form';
+import MonstroForm from './Monstro/MonstroForm';
 
 import FileController from '../Controller/FileController';
 
@@ -48,7 +48,7 @@ class Monstreador extends React.Component {
       case 4:
         return <AboutScreen />;
       case 5:
-        return <Entity1Form changeSelectedScreen={this.changeSelectedScreen} selectedCard={this.state.selectedCard} fileController={this.state.fileController} />
+        return <MonstroForm changeSelectedScreen={this.changeSelectedScreen} selectedCard={this.state.selectedCard} fileController={this.state.fileController} />
       default:
         return null;
     }

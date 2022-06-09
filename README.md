@@ -1,35 +1,44 @@
 # Monstreador
-A template of an electron application using react
+Um sistema criado para nivelamento de monstros em RPG.
 
-## Start
+## Início
 
-If you need to integrate Electron and react, this application will help you to make it easier.
-Just create a repository using this template, change some example codes and implement your own functions.
+Se você precisa de nivelamento de monstros em seu RPG, este sistema é o ideal para sua necessidade. Você irá cadastrar os monstros de sua campanha e o nivelamento ocorrerá com base nos atributos.
 
-## Prerequisites
+## Pré-requisitos
 
 - [Node](https://nodejs.org)
 - [NPM](https://npmjs.com)
 - [Yarn](https://yarnpkg.com)
 
-### Installing project
+## Iniciando o desenvolvimento
 ```
 yarn install
 ```
 
-## Executing
+## Execução
 ```
 yarn dev
 ```
 
-## Versioning
+## Versionamento
 
-We are using [SemVer](http://semver.org/) for versioning. To see our published versions, take a look on this [repository tags](https://github.com/DarksunTeam/Monstreador/tags). 
+Estamos usando a ferramenta [SemVer](http://semver.org/) para versionamento. Para ver nossas versões publicadas, dê uma olhada em [tags de repositório](https://github.com/DarksunTeam/Monstreador/tags). 
 
-## Creator
+## Criador / Product Owner
 
 * **Marcos "Coppola" Gonçalves** - *2022* - [Coppolaop](https://github.com/coppolaop)
 
-## License
+## Scrum Master
 
-This project is licensed using Apache-2.0 - take a look on this [License](LICENSE) for more details.
+* **Vitor Abel** - *2022* - [vitor-abel](https://github.com/vitor-abel)
+
+## Desenvolvedores
+
+* **Igor Huayck** - *2022* - [Flaigor](https://github.com/Flaigor)
+*  **Phillipe Ramos** - *2022* - [PhillipeRamos](https://github.com/PhillipeRamos)
+* **Vitor Abel** - *2022* - [vitor-abel](https://github.com/vitor-abel)
+  
+## Licença
+
+Este projeto é licenciado usando Apache-2.0 - dê uma olhada em [Licença](LICENSE) para mais detalhes.

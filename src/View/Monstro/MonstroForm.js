@@ -78,7 +78,7 @@ class MonstroForm extends React.Component {
 
     render() {
         return (
-            <div className="container">
+            <div className="col">
                 <form onKeyPress={(e) => { e.key === 'Enter' && e.target.type !== 'textarea' && e.preventDefault(); }}>
                     <div className="row">
                         <label className="col-12">

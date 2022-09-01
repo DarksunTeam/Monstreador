@@ -1,0 +1,7 @@
+{
+  "_id": 42,
+  "nome": "Varrer (livre)",
+  "descricao": "Uma vez por rodada, quando o monstro faz um ataque corpo a corpo e reduz os pontos de vida do alvo para 0 ou menos, pode realizar um ataque adicional contra outra criatura dentro do seu alcance. Esse ataque usa os mesmos bônus de ataque e dano, mas os dados devem ser rolados novamente.",
+  "preco": "",
+  "fileName": "varrer-livre.json"
+}

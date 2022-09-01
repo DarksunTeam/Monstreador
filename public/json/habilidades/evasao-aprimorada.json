@@ -1,0 +1,7 @@
+{
+  "_id": 79,
+  "nome": "Evasão aprimorada",
+  "descricao": "Quando sofre um ataque que permite um teste de Reflexos para reduzir o dano à metade, o monstro não sofre dano algum se passar e sofre apenas metade do dano se falhar.",
+  "preco": "",
+  "fileName": "evasao-aprimorada.json"
+}

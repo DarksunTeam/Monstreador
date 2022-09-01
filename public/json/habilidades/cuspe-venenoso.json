@@ -1,0 +1,7 @@
+{
+  "_id": 87,
+  "nome": "Cuspe venenoso",
+  "descricao": "O monstro cospe veneno em um cone de 9m. Criaturas na área sofrem 6d12 pontos de dano e ficam cegas por 1d4 rodadas (Fortitude CD 31 reduz o dano à metade e evita a cegueira).",
+  "preco": "",
+  "fileName": "cuspe-venenoso.json"
+}

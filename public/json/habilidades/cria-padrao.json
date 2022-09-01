@@ -1,0 +1,7 @@
+{
+  "_id": 61,
+  "nome": "Cria (padrão)",
+  "descricao": "O monstro faz uma criatura morta por uma habilidade sua específica se erguer como um de seus semelhantes na noite seguinte. A cria deve vencer um teste de Vontade oposto contra o monstro ou ficará sob o controle dele até que ele a liberte ou seja destruído.",
+  "preco": "",
+  "fileName": "cria-padrao.json"
+}

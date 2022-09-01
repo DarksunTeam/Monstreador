@@ -1,0 +1,7 @@
+{
+  "_id": 94,
+  "nome": "Dilacerar",
+  "descricao": "Se o monstro acerta os dois ataques de garra em uma mesma criatura na mesma rodada, causa mais 2d8+7 pontos de dano. ",
+  "preco": "",
+  "fileName": "dilacerar.json"
+}

@@ -1,0 +1,7 @@
+{
+  "_id": 65,
+  "nome": "Abençoar arma",
+  "descricao": "Até o fim da cena, o monstro usa o bônus de Sabedoria no lugar de Força para testes de ataque e rolagens de dano com o machado de guerra; o dano dessa arma aumenta em um passo e se torna mágico. Suas estatísticas se tornam ataque +15 (3d6+12, x3).",
+  "preco": "",
+  "fileName": "abencoar-arma.json"
+}

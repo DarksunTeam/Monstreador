@@ -1,0 +1,7 @@
+{
+  "_id": 98,
+  "nome": "Trespassar",
+  "descricao": "Quando o monstro faz um ataque corpo a corpo e reduz os pontos de vida do alvo para 0 ou menos, pode gastar 1 PM para fazer um ataque adicional contra outra criatura dentro do seu alcance.",
+  "preco": "",
+  "fileName": "trespassar.json"
+}

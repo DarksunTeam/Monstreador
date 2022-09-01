@@ -1,0 +1,7 @@
+{
+  "_id": 36,
+  "nome": "Táticas de Alcateia",
+  "descricao": "Quando flanqueia um inimigo, o monstro recebe +2 no teste de ataque e na rolagem de dano (além do bônus normal por flanquear, para um total de +4 no ataque e +2 no dano).",
+  "preco": "",
+  "fileName": "taticas-de-alcateia.json"
+}

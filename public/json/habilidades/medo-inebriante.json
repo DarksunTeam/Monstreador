@@ -1,0 +1,7 @@
+{
+  "_id": 73,
+  "nome": "Medo inebriante",
+  "descricao": "Enquanto estiver em alcance médio de uma criatura abalada ou apavorada, o monstro recebe um bônus em testes de perícia e rolagens de dano corpo a corpo igual à penalidade causada pela condição. Quando acerta um ataque corpo a corpo em uma dessas criaturas, ele recebe uma quantidade de PV temporários igual a essa penalidade.",
+  "preco": "",
+  "fileName": "medo-inebriante.json"
+}

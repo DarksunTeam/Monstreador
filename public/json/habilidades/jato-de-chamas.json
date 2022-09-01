@@ -1,0 +1,7 @@
+{
+  "_id": 53,
+  "nome": "Jato de chamas",
+  "descricao": "O monstro dispara um jato de chamas que atinge um cone com alcance médio. Criaturas na área sofrem 8d8+10 pontos de dano de fogo (Ref CD 35 reduz à metade). ",
+  "preco": "",
+  "fileName": "jato-de-chamas.json"
+}

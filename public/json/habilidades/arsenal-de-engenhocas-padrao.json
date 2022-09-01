@@ -1,0 +1,7 @@
+{
+  "_id": 74,
+  "nome": "Arsenal de engenhocas (padrão)",
+  "descricao": "O engenho de guerra é um monstro que possui várias engenhocas operadas por sua frenética tripulação. Sempre que esta habilidade é usada, role 1d6 quatro vezes. O resultado de cada dado indica qual engenhoca é ativada. Resultados repetidos são desperdiçados — isso significa que mais de um goblin tentou usar uma mesma engenhoca, perdendo sua ação. 1) Canhão elétrico. O engenho dispara um raio em uma linha com alcance médio. Criaturas na área sofrem 8d8 pontos de dano de eletricidade (Reflexos CD 23 reduz à metade). 2) Balestra ácida. O engenho dispara um virote de ácido em uma criatura em alcance médio. O alvo sofre 8d6 pontos de dano de ácido e fica coberto por muco corrosivo, sofrendo 8d6 pontos de dano de ácido no início de seu próximo turno (Reflexos CD 23 reduz à metade e evita o muco). 3) Foles. O engenho dispara labaredas em um cone de alcance curto. Criaturas na área sofrem 6d6 pontos de dano de fogo e ficam em chamas (Reflexos CD 23 reduz à metade e evita as chamas). 4) Lâmina giratória. O engenho faz um ataque corpo a corpo em cada criatura adjacente (ataque +20, dano 4d6+10, 19, corte). 5) Poça de óleo. O engenho vaza óleo escorregadio e inflamável. Todas as criaturas em alcance curto ficam vulneráveis a fogo até se limparem (o que exige uma ação completa) e caem no chão. Um teste de Reflexos contra CD 23 evita ambos os efeitos. 6) Reparos emergenciais. O engenho recupera 20 PV.",
+  "preco": "",
+  "fileName": "arsenal-de-engenhocas-padrao.json"
+}

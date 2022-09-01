@@ -1,0 +1,7 @@
+{
+    "_id": 25,
+    "nome": "Fúria",
+    "descricao": "O monstro entra em fúria até o fim da cena, ou até passar uma rodada inteira sem atacar ou ser alvo de um efeito (ataque, habilidade, magia...) hostil. Ele recebe +2 nos testes de ataque e rolagens de dano corpo a corpo, mas não pode fazer nenhuma ação que exija calma e concentração.",
+    "preco": "",
+    "fileName": "furia.json"
+  }

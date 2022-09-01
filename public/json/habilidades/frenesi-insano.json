@@ -1,0 +1,7 @@
+{
+  "_id": 111,
+  "nome": "Frenesi insano",
+  "descricao": "",
+  "preco": "Sempre que causa ou sofre dano, o monstro recebe um bônus cumulativo de +2 em testes de ataque e rolagens de dano até o fim da cena.",
+  "fileName": "frenesi-insano.json"
+}

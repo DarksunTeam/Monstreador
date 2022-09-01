@@ -1,0 +1,7 @@
+{
+  "_id": 15,
+  "nome": "Teia",
+  "descricao": "O monstro dispara teia em uma área de 3m de lado em alcance curto. Criaturas na área ficam enredadas (Reflexos CD 17 evita). Uma criatura enredada pode se soltar com uma ação completa e um teste de Força ou Acrobacia (CD 20) ou cortando a teia (cada espaço de 1,5m de teia tem 5 PV e RD 5). Fogo queima a teia em duas rodadas (e liberta as criaturas), mas causa 1d6 pontos de dano de fogo por rodada a todas as criaturas nela. O monstro também pode usar a teia para cobrir uma área quadrada com 6m de lado. Por sua semitransparência, a teia é difícil de ver (Percepção CD 20) até ser tarde demais. Uma criatura que entre na área fica enredada. A aranha pode andar na própria teia sem se enredar. Ela percebe automaticamente (como se tivesse percepção às cegas) qualquer criatura na teia.",
+  "preco": "",
+  "fileName": "teia.json"
+}

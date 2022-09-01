@@ -1,0 +1,7 @@
+{
+  "_id": 63,
+  "nome": "Forma de morcego (padrão)",
+  "descricao": "O monstro se transforma em um morcego. Ele adquire tamanho Minúsculo (o que fornece +5 em Furtividade e –5 em testes de manobra) e recebe deslocamento de voo 12m. Seu equipamento é absorvido (retornando quando ele volta ao normal) e suas outras estatísticas não são alteradas. A transformação dura quanto tempo ele desejar, mas termina caso faça um ataque, lance uma magia ou sofra dano.",
+  "preco": "",
+  "fileName": "forma-de-morcego-padrao.json"
+}

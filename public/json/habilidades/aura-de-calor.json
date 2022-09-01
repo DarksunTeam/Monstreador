@@ -1,0 +1,7 @@
+{
+  "_id": 17,
+  "nome": "Aura de calor",
+  "descricao": "Quando enfurecido, o monstro emana um calor intenso. No início de cada turno do monstro, todas as criaturas em alcance curto sofrem 4d6+9 pontos de dano de fogo. ",
+  "preco": "",
+  "fileName": "aura-de-calor.json"
+}

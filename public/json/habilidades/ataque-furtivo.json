@@ -1,0 +1,7 @@
+{
+    "_id": 27,
+    "nome": "Ataque furtivo",
+    "descricao": "Uma vez por rodada, o monstro causa +2d6 pontos de dano com ataques corpo a corpo, ou à distância em alcance curto, contra alvos desprevenidos ou que esteja flanqueando.",
+    "preco": "",
+    "fileName": "ataque-furtivo.json"
+  }

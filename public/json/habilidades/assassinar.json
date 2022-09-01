@@ -1,0 +1,7 @@
+{
+  "_id": 77,
+  "nome": "Assassinar",
+  "descricao": "O monstro analisa uma criatura em alcance curto. Em seu primeiro Ataque Furtivo que causar dano a ela até o fim do seu próximo turno, ele dobra os dados de dano do Ataque Furtivo.",
+  "preco": "",
+  "fileName": "assassinar.json"
+}

@@ -1,0 +1,7 @@
+{
+  "_id": 75,
+  "nome": "Tripulação",
+  "descricao": "Se o engenho de guerra for destruído, 1d6 goblins salteadores escapam de seus escombros e surgem no início da rodada seguinte.",
+  "preco": "",
+  "fileName": "tripulacao.json"
+}

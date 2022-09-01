@@ -1,0 +1,7 @@
+{
+  "_id": 52,
+  "nome": "Goblins consertadores",
+  "descricao": "Goblins especialmente pequenos rastejam por dentro dos dutos do colosso fazendo reparos, o que fornece ao construto cura acelerada 20. Por estarem dentro do construto, os goblins são imunes a dano, mas ainda podem ser afetados por efeitos mentais. Eles possuem Vontade +2 (mas recebem a resistência a magia do monstro) e, se forem afetados por qualquer condição, a cura acelerada deixa de funcionar. ",
+  "preco": "",
+  "fileName": "goblins-consertadores.json"
+}

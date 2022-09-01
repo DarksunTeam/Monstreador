@@ -1,0 +1,7 @@
+{
+  "_id": 21,
+  "nome": "Sopro (Movimento, 6PM)",
+  "descricao": "O monstro expele uma nuvem de gás venenoso que preenche um cubo de 3m de lado. Criaturas dentro da área soe dano de veneno e ficam enjoadas (Fortitude CD 30 reduz o dano à metade e evita a condição enjoado).",
+  "preco": "",
+  "fileName": "sopro-movimento.json"
+}

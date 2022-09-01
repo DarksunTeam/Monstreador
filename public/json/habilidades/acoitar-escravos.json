@@ -1,0 +1,7 @@
+{
+  "_id": 92,
+  "nome": "Açoitar escravos",
+  "descricao": "O monstro usa de coerção e dor para motivar seus escravos. No próximo turno de cada aliado do monstro em alcance médio, esse aliado recebe uma ação de movimento extra e +2 em testes de ataque e rolagens de dano. ",
+  "preco": "",
+  "fileName": "acoitar-escravos.json"
+}

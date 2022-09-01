@@ -1,0 +1,7 @@
+{
+  "_id": 91,
+  "nome": "Regeneração vegetal",
+  "descricao": "O monstro recupera 5 pontos de vida. Esta habilidade não cura dano de ácido e fogo e não pode ser usada quando o monstro está exposto à luz do sol ou similar. ",
+  "preco": "",
+  "fileName": "regeracao-vegetal.json"
+}

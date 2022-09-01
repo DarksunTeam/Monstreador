@@ -1,0 +1,7 @@
+{
+  "_id": 89,
+  "nome": "Marca da presa",
+  "descricao": "O monstro analisa uma criatura em alcance curto. Até o final da cena, recebe +1d8 em rolagens de dano contra essa criatura (ou +2d8, se a criatura for um anão, elfo ou humano). ",
+  "preco": "",
+  "fileName": "marca-da-presa.json"
+}

@@ -1,0 +1,7 @@
+{
+  "_id": 2,
+  "nome": "Cura acelerada",
+  "descricao": "No início de seu turno, o monstro recupera pontos de vida iguais ao seu valor de Cura Acelerada (por exemplo, 5 PV com Cura Acelerada 5). Caso haja um ou mais tipos de dano listados após uma barra, a Cura Acelerada não recupera dano daqueles tipos. Por exemplo, um monstro com Cura Acelerada 10/ácido ou fogo recupera 10 PV no início de seu turno, a menos que o dano tenha sido causado por ácido ou fogo. Cura Acelerada não recupera PV perdidos por fome, sede ou sufocamento. ",
+  "preco": "",
+  "fileName": "cura-acelerada.json"
+}

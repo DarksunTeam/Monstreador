@@ -1,0 +1,7 @@
+{
+  "_id": 76,
+  "nome": "Engenhocas (padrão)",
+  "descricao": "). O monstro faz um teste de Ofício (engenhoqueiro) para ativar uma de suas engenhocas. A CD depende da engenhoca e aumenta em +5 a cada nova ativação no mesmo dia. Se passar no teste, a engenhoca é ativada. Se falhar, ela enguiça e só poderá ser usada novamente após ser consertada. Asa de Bambu (CD 18) Fornece ao monstro deslocamento de voo 12m até o fim da cena. Cospe-chamas (CD 19) Produz um cone de chamas com 6m de alcance. Criaturas na área sofrem 5d6 pontos de dano de fogo e ficam em chamas (Reflexos CD 15 reduz o dano à metade e evita as chamas). Gritador (CD 18) Produz um ruído ensurdecedor. Todas as criaturas em alcance curto escolhidas pelo monstro sofrem −2 em testes de ataque e rolagens de dano até o fim da cena.",
+  "preco": "",
+  "fileName": "engenhocas-padrao.json"
+}

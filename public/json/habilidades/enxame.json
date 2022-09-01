@@ -1,0 +1,7 @@
+{
+  "_id": 102,
+  "nome": "Enxame",
+  "descricao": "Um enxame é uma aglomeração de criaturas que agem em conjunto. Em termos de regras, pode entrar no espaço ocupado por um personagem. No fim de seu turno, o enxame causa 2d6 pontos de dano de perfuração a qualquer personagem em seu espaço, automaticamente. Um enxame é imune a manobras de combate e efeitos que afetam apenas uma criatura e não causam dano, e sofre apenas metade do dano de ataques com armas. Porém, sofre 50% a mais de dano por efeitos de área. ",
+  "preco": "",
+  "fileName": "enxame.json"
+}

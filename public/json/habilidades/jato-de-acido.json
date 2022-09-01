@@ -1,0 +1,7 @@
+{
+  "_id": 110,
+  "nome": "Jato de ácido",
+  "descricao": "O monstro dispara um jato corrosivo que atinge um cone com alcance médio. Criaturas na área sofrem 10d8+10 pontos de dano de ácido (Ref CD 35 reduz à metade).",
+  "preco": "",
+  "fileName": "jato-de-acido.json"
+}

@@ -1,0 +1,7 @@
+{
+  "_id": 9,
+  "nome": "Resistência a dano",
+  "descricao": "",
+  "preco": "O monstro ignora parte do dano que sofre. Por exemplo, se um monstro com RD 5 sofre um ataque que causa 8 pontos de dano, perde apenas 3 PV. A resistência pode ser contra um ou mais tipos de dano específicos. Assim, um monstro com resistência a fogo 10 ignora 10 pontos de dano de fogo, mas sofre dano de outros tipos normalmente. Caso haja um ou mais tipos de dano listados após uma barra, a RD não se aplica àqueles tipos. Por exemplo, um monstro com RD 10/mágico ignora 10 pontos de dano de todos os ataques que sofrer — exceto dano causado por habilidades e armas mágicas.",
+  "fileName": "resistencia-a-dano.json"
+}

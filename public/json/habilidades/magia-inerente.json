@@ -1,0 +1,7 @@
+{
+  "_id": 6,
+  "nome": "Magia inerente",
+  "descricao": "Certos monstros podem lançar uma ou mais magias como uma habilidade inerente (atributo-chave Carisma). Esta habilidade funciona como magias, mas não exige palavras mágicas, gestos ou concentração (desde que esteja consciente, o monstro sempre poderá usar uma magia inerente). ",
+  "preco": "",
+  "fileName": "magia-inerente.json"
+}

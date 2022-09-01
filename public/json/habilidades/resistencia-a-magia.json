@@ -1,0 +1,7 @@
+{
+  "_id": 10,
+  "nome": "Resistência a magia",
+  "descricao": "O monstro recebe um bônus em testes de resistência contra magia. Por exemplo, um monstro com resistência a magia +2 recebe um bônus de +2 em testes de Fortitude, Reflexos ou Vontade contra magias. ",
+  "preco": "",
+  "fileName": "resistencia-a-magia.json"
+}

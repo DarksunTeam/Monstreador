@@ -1,0 +1,7 @@
+{
+  "_id": 96,
+  "nome": "Golpe avassalador",
+  "descricao": "Quando acerta um ataque de tacape, o monstro arremessa a vítima 1d6 x 1,5m em uma direção à escolha dele. A vítima fica caída e, se atingir algum obstáculo, sofre 1d6 pontos de dano de impacto para cada 1,5m que foi arremessada. Um teste de Fortitude (CD 29) evita o arremesso.",
+  "preco": "",
+  "fileName": "golpe-avassalador.json"
+}

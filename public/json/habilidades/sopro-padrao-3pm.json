@@ -1,0 +1,7 @@
+{
+  "_id": 97,
+  "nome": "Sopro (padrão, 3PM)",
+  "descricao": "O monstro cospe uma linha ou cone (a sua escolha) de ácido, eletricidade, essência, fogo, frio, luz, mental, trevas ou veneno. Um teste de Reflexos (CD Con) reduz o dano à metade. A ameaça não pode usar esta habilidade duas rodadas seguidas. O dano é uma quantidade de dados igual a 1 mais 1 para cada 2 níveis de ND.",
+  "preco": "",
+  "fileName": "sopro-padrao-3pm.json"
+}

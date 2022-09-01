@@ -1,0 +1,7 @@
+{
+  "_id": 50,
+  "nome": "Balistas (livre)",
+  "descricao": "Um monstro possui duas balistas, uma em cada ombro. Cada balista é tripulada por soldados que a carregam e a disparam em rodadas alternadas (bônus de ataque +13, 6d8 pontos de dano de perfuração, crítico 19, alcance médio). É possível atacar as tripulações para impedir os disparos. Cada tripulação possui Defesa 26, 50 pontos de vida e usa os testes de resistência do monstro. ",
+  "preco": "",
+  "fileName": "balistas-livre.json"
+}

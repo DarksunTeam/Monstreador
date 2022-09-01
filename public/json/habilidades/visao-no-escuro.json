@@ -1,0 +1,7 @@
+{
+  "_id": 13,
+  "nome": "Visão no escuro",
+  "descricao": "O monstro enxerga no escuro (exceto escuridão mágica) em alcance curto. Ele ignora camuflagem (mas não camuflagem total) por escuridão.",
+  "preco": "",
+  "fileName": "visao-no-escuro.json"
+}

@@ -1,0 +1,7 @@
+{
+  "_id": 32,
+  "nome": "Saque rápido",
+  "descricao": "O monstro pode sacar ou guardar itens como uma ação livre e recarregar seu mosquete como uma ação de movimento.",
+  "preco": "",
+  "fileName": "saque-rapido.json"
+}

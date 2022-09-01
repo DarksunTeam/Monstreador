@@ -1,0 +1,7 @@
+{
+  "_id": 85,
+  "nome": "Cortar cabeças",
+  "descricao": "As cabeças do monstro são seu ponto fraco e é possível atacá-las diretamente. Atacar uma cabeça impõe uma penalidade de –2 no teste de ataque. Se o ataque acertar e causar pelo menos 25 pontos de dano de corte, a cabeça é decepada e a hidra perde um ataque de mordida. Entretanto, 1d4 rodadas após a cabeça ser decepada, duas novas nascem em seu lugar (a hidra pode ter até dez cabeças). Para impedir o nascimento de novas cabeças é necessário cauterizar o pescoço. Isso exige causar 25 pontos de dano de ácido ou fogo na hidra. Se todas as cabeças da hidra forem decepadas e todos seus pescoços forem cauterizados, ela morre.",
+  "preco": "",
+  "fileName": "cortar-cabecas.json"
+}

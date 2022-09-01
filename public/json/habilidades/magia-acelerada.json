@@ -1,0 +1,7 @@
+{
+  "_id": 49,
+  "nome": "Magia acelerada",
+  "descricao": "Quando lança uma magia com execução de ação completa ou menor, o monstro muda a execução dela para livre. Ele só pode usar este poder uma vez por rodada.",
+  "preco": "",
+  "fileName": "magia-acelerada.json"
+}

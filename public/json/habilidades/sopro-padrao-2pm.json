@@ -1,0 +1,7 @@
+{
+  "_id": 29,
+  "nome": "Sopro (padrão, 2PM)",
+  "descricao": "O monstro cospe fogo em um cone com alcance curto. Criaturas na área sofrem 4d6+4 pontos de dano de fogo (Ref CD 17 reduz à metade).",
+  "preco": "",
+  "fileName": "sopro-padrao-2pm.json"
+}

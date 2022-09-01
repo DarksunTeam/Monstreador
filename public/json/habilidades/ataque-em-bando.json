@@ -1,0 +1,7 @@
+{
+  "_id": 56,
+  "nome": "Ataque em bando",
+  "descricao": "Se um ataque do monstro exceder a Defesa do inimigo por 10 ou mais, ele causa o dobro do dano. Se um ataque do monstro errar, ele ainda assim causa metade do dano.",
+  "preco": "",
+  "fileName": "ataque-em-bando.json"
+}

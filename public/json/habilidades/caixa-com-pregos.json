@@ -1,0 +1,7 @@
+{
+  "_id": 101,
+  "nome": "Caixa com pregos",
+  "descricao": "Os monstros arremessam uma caixa com pregos (ou outra coisa perigosa, como insetos peçonhentos) em uma criatura em alcance curto. A vítima sofre 2d6 pontos de dano de perfuração e fica atordoada por uma rodada (Ref CD 15 reduz o dano à metade e evita a condição atordoado). ",
+  "preco": "",
+  "fileName": "caixa-com-pregos.json"
+}

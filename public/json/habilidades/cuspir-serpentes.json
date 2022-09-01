@@ -1,0 +1,7 @@
+{
+  "_id": 86,
+  "nome": "Cuspir serpentes",
+  "descricao": "O monstro cospe 2d6 serpentes em alcance curto. As serpentes agem a partir da próxima rodada do monstro. Elas têm deslocamento 9m (normal, de escalada e de natação) e podem gastar uma ação padrão para causar 1d6 pontos de dano de veneno em uma criatura adjacente. As serpentes possuem For 8, Des 14 e todos os outros atributos nulos; elas têm 1 PV e não têm valor de Defesa ou testes de resistência (qualquer efeito as acerta automaticamente).",
+  "preco": "",
+  "fileName": "cuspir-serpentes.json"
+}

@@ -1,0 +1,7 @@
+{
+  "_id": 14,
+  "nome": "Vulnerabilidade a dano",
+  "descricao": "O monstro sofre 1,5 vezes (+50%) o dano do tipo determinado. Por exemplo, se um monstro com vulnerabilidade a frio sofre um ataque que causa 15 pontos de dano de frio, perde 22 PV (15 x 1,5 = 22).",
+  "preco": "",
+  "fileName": "vulnerabilidade-a-dano.json"
+}

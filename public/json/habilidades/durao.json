@@ -1,0 +1,7 @@
+{
+  "_id": 100,
+  "nome": "Durão",
+  "descricao": "Quando sofre dano, o monstro reduz esse dano à metade. ",
+  "preco": "",
+  "fileName": "durao.json"
+}

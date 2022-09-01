@@ -1,0 +1,7 @@
+{
+  "_id": 34,
+  "nome": "Ordens",
+  "descricao": "O monstro pode gastar uma ação de movimento para gritar ordens para seus aliados em alcance médio. Eles recebem +1 em testes de perícia até o fim da cena.",
+  "preco": "",
+  "fileName": "ordens.json"
+}

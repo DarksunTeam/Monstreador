@@ -1,0 +1,7 @@
+{
+  "_id": 41,
+  "nome": "Lutar em formação",
+  "descricao": "Se o monstro estiver adjacente a um aliado que também possua este poder, recebe +1 em testes de ataque e Defesa.",
+  "preco": "",
+  "fileName": "lutar-em-formacao.json"
+}

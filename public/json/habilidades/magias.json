@@ -1,0 +1,7 @@
+{
+  "_id": 7,
+  "nome": "Magias",
+  "descricao": "Certos monstros podem lançar magias como conjuradores (atributo-chave Carisma, a menos que seja especificado o contrário). ",
+  "preco": "",
+  "fileName": "magias.json"
+}

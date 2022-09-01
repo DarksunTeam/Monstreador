@@ -1,0 +1,7 @@
+{
+  "_id": 19,
+  "nome": "Imobilidade",
+  "descricao": "O monstro é imune a um tipo de dano ou condição. Um monstro imune a paralisia, por exemplo, não pode ser paralisada por nenhum efeito, seja normal ou mágico. Uma criatura imune a fogo ignora todo o dano causado por fogo, seja normal ou mágico. Um monstro imune a magia ignora todos os efeitos mágicos que a afetem diretamente. Ele não sofre dano por magias que causem dano, não é enganada por ilusões etc. Ele ainda pode ser afetado indiretamente — por exemplo, ainda é afetado por terreno difícil criado por magias.",
+  "preco": "",
+  "fileName": "imobilidade.json"
+}

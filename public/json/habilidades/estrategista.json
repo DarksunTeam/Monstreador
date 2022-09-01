@@ -1,0 +1,7 @@
+{
+  "_id": 45,
+  "nome": "Estrategista",
+  "descricao": "O monstro pode gastar uma ação padrão e 1 PM por aliado em alcance curto que quiser direcionar. No próximo turno desse aliado, ele ganha uma ação de movimento adicional. ",
+  "preco": "",
+  "fileName": "estrategista.json"
+}

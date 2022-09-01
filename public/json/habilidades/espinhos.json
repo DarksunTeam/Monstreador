@@ -1,0 +1,7 @@
+{
+  "_id": 23,
+  "nome": "Espinhos",
+  "descricao": "O monstro dispara 1d4 espinhos de sua cauda. Cada espinho atinge uma criatura em alcance médio, causando 1d8+7 pontos de dano de perfuração (Ref CD 19 reduz à metade).",
+  "preco": "",
+  "fileName": "espinhos.json"
+}

@@ -1,0 +1,7 @@
+{
+  "_id": 0,
+  "nome": "Forma coletiva",
+  "descricao": "O monstro é imune a efeitos que afetam apenas uma criatura e não causam dano, como a magia Raio do Enfraquecimento, mas sofre 50% a mais de dano de efeitos de área, como Bola de Fogo. Um personagem com o poder Trespassar que acerte o monstro pode usá-lo para fazer um ataque adicional contra ela (mas apenas uma vez por turno).",
+  "preco": "",
+  "fileName": "forma-coletiva.json"
+}

@@ -1,0 +1,7 @@
+{
+  "_id": 68,
+  "nome": "Tropas goblinoides",
+  "descricao": "O monstro invoca 1d4+1 goblinoides em espaços desocupados em alcance curto. Ele pode usar uma ação de movimento para fazer os goblinoides andarem (deslocamento 9m) ou uma ação padrão para fazê-los causar dano a criaturas adjacentes (1d6+1 pontos de dano de corte cada). Os goblinoides têm For 14, Des 14, 6 PV e não têm valor de Defesa ou testes de resistência (qualquer efeito os acerta automaticamente). Eles não agem sem receber uma ordem e desaparecem quando morrem ou no fim da cena.",
+  "preco": "",
+  "fileName": "tropas-goblinoides.json"
+}

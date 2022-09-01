@@ -1,0 +1,7 @@
+{
+  "_id": 5,
+  "nome": "Incorpóreo",
+  "descricao": "O monstro não tem corpo físico. Só pode ser afetado por armas mágicas, magias ou outras criaturas incorpóreas. Criaturas incorpóreas podem atravessar objetos sólidos, mas não manipulá-los. Elas não têm valor de Força, usando seu modificador de Destreza para calcular seu bônus de ataque.  ",
+  "preco": "",
+  "fileName": "incorporeo.json"
+}

@@ -1,0 +1,7 @@
+{
+  "_id": 20,
+  "nome": "Imunidade a magia",
+  "descricao": "O monstro é imune a magias, com as seguintes exceções. Magias de eletricidade deixam o monstro lento por 1d6 rodadas. Magias de fogo removem a condição lento e curam um ponto de vida para cada três pontos de dano que causariam. ",
+  "preco": "",
+  "fileName": "imunidade-a-magia.json"
+}

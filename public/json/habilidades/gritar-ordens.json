@@ -1,0 +1,7 @@
+{
+  "_id": 47,
+  "nome": "Gritar Ordens",
+  "descricao": "O monstro pode gastar até 4 PM. Até o início do próximo turno dele, todos os aliados em alcance curto recebem um bônus nos testes de perícia igual à quantidade de PM que ele gastou.",
+  "preco": "",
+  "fileName": "gritar-ordens.json"
+}

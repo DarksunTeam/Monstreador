@@ -1,0 +1,7 @@
+{
+  "_id": 103,
+  "nome": "Unidos venceremos",
+  "descricao": "Periodicamente, novas criaturas se juntam ao enxame. No início de cada rodada, o enxame ganha +10 PV (até um limite máximo de 100 PV). O enxame recebe +1 em rolagens de dano para cada 10 PV que possui.",
+  "preco": "",
+  "fileName": "unidos-venceremos.json"
+}

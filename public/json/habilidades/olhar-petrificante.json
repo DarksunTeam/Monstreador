@@ -1,0 +1,7 @@
+{
+    "_id": 28,
+    "nome": "Olhar petrificante",
+    "descricao": "No início de seu turno, cada personagem em alcance curto do monstro deve fazer um teste de Reflexos (CD 18). Se passar, desvia o olhar. Se falhar, fica lento. Se já estiver lento, fica petrificado permanentemente. Um personagem pode fechar os olhos para ficar imune a esta habilidade, mas sofrerá os efeitos de estar cego. Efeitos que removem paralisia revertem a petrificação.",
+    "preco": "",
+    "fileName": "olhar-petrificante.json"
+  }

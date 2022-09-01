@@ -1,0 +1,7 @@
+{
+  "_id": 67,
+  "nome": "Prece de combate",
+  "descricao": "Quando lança uma magia divina com tempo de conjuração de uma ação padrão tendo como alvo ele mesmo, o monstro reduz o tempo para uma ação de movimento.",
+  "preco": "",
+  "fileName": "prece-de-combate.json"
+}

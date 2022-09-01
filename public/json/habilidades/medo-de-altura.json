@@ -1,0 +1,7 @@
+{
+  "_id": 30,
+  "nome": "Medo de altura",
+  "descricao": "Se estiver adjacente a uma queda de 3m ou mais de altura, o monstro fica abalado.",
+  "preco": "",
+  "fileName": "medo-de-altura.json"
+}

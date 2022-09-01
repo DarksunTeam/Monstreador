@@ -1,0 +1,7 @@
+{
+  "_id": 54,
+  "nome": "Passar por cima (completa)",
+  "descricao": "O monstro percorre até o dobro do seu deslocamento, passando por qualquer criatura Grande ou menor. Uma criatura atropelada sofre 6d8+15 pontos de dano de impacto (Reflexos CD 30 reduz à metade).",
+  "preco": "",
+  "fileName": "passar-por-cima-completa.json"
+}

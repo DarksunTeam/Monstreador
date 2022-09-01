@@ -1,0 +1,7 @@
+{
+  "_id": 1,
+  "nome": "Agarrar aprimorado",
+  "descricao": "Se o monstro acertar um ataque com uma de suas armas naturais (especificada na descrição da habilidade), poderá fazer a manobra agarrar como uma ação livre.",
+  "preco": "",
+  "fileName": "agarrar-aprimorado.json"
+}

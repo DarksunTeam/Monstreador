@@ -1,0 +1,7 @@
+{
+  "_id": 64,
+  "nome": "Presença majestosa",
+  "descricao": "Quando uma criatura ataca o monstro, deve passar em um teste de Vontade (CD 27) ou não conseguirá machucá-lo e perderá a ação.",
+  "preco": "",
+  "fileName": "presenca-majestosa.json"
+}

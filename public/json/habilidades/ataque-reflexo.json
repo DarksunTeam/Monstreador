@@ -1,0 +1,7 @@
+{
+  "_id": 106,
+  "nome": "Ataque reflexo",
+  "descricao": "Uma vez por rodada, o monstro pode fazer um ataque corpo a corpo contra um alvo adjacente que esteja desprevenido ou que se mova para fora de seu alcance. ",
+  "preco": "",
+  "fileName": "ataque-reflexo.json"
+}

@@ -1,0 +1,7 @@
+{
+  "_id": 69,
+  "nome": "Apavorar",
+  "descricao": "O monstro faz um teste de Intimidação oposto pela Vontade de todas as criaturas a escolha dele em alcance médio. Criaturas que falhem ficam abaladas pelo resto da cena; criaturas que falhem por 10 ou mais ficam apavoradas por 1d4 rodadas e abaladas pelo resto da cena.",
+  "preco": "",
+  "fileName": "apavorar.json"
+}

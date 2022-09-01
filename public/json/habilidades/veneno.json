@@ -1,0 +1,7 @@
+{
+  "_id": 11,
+  "nome": "Veneno",
+  "descricao": "Uma das armas naturais do monstro inocula veneno. Um personagem que sofra dano dessa arma natural deve passar num teste de Fortitude (CD Con) ou sofre o efeito do veneno. Veja mais sobre venenos na página 305.",
+  "preco": "",
+  "fileName": "veneno.json"
+}

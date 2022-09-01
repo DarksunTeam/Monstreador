@@ -1,0 +1,7 @@
+{
+    "_id": 39,
+    "nome": "Mau Cheiro",
+    "descricao": "O monstro expele um gás fétido. Todas as criaturas (exceto trogs) em alcance curto devem passar em um teste de Fortitude contra veneno (CD 14) ou ficarão enjoadas durante 1d6 rodadas. Uma criatura que passe no teste de resistência fica imune a esta habilidade por um dia. Para executar esta ação, o monstro precisará gastar uma ação padrão e 2 pontos de mana.",
+    "preco": "",
+    "fileName": "mau-cheiro.json"
+  }

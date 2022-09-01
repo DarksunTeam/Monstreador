@@ -1,0 +1,7 @@
+{
+  "_id": 109,
+  "nome": "Carapaça",
+  "descricao": "O monstro possui uma carapaça que reduz todo dano de corte, impacto e perfuração que ele sofre pela metade e fornece resistência a magia +10. Se o monstro passar num teste de resistência contra magia, ela é revertida contra o conjurador. Apesar de resistente, a carapaça de um monstro possui pontos fracos, que podem ser encontrados com uma ação de movimento e um teste de Percepção (CD 25). Um personagem que encontre um ponto fraco pode atacar a criatura com –5 no teste de ataque, mas, se acertar, ignora as proteções da carapaça. ",
+  "preco": "",
+  "fileName": "carapaca.json"
+}

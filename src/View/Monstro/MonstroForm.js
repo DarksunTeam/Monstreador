@@ -81,10 +81,18 @@ class MonstroForm extends React.Component {
             <div className="col">
                 <form onKeyPress={(e) => { e.key === 'Enter' && e.target.type !== 'textarea' && e.preventDefault(); }}>
                     <div className="row">
-                        <label className="col-12">
+                        <label className="col-8">
                             Nome:<br />
                             <input type="text" name="nome" value={this.state.monstro.nome} onChange={this.handleInputChange}></input>
                         </label>
+                        <label className="col-2">
+                            ND:<br />
+                            <input type="number" readonly="readonly" value={this.state.monstro.nd}></input>
+                            </label>
+                        <label className="col-2">
+                            Pontos:<br />
+                            <input type="number" readonly="readonly"></input>
+                            </label>
                     </div>
                     <div className="row">
                         <label className="col-2">

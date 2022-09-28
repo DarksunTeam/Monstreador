@@ -1,11 +1,13 @@
 const path = window.require('path');
 const fs = window.require('fs');
+const util = require('util');
+const copyFilePromise = util.promisify(fs.copyFile);
 
 class FileController {
   constructor() {
-    this.folders = ['Entity1', 'Monstro'];
-    this.Entity1 = [];
+    this.folders = ['Monstro', 'Habilidade'];
     this.Monstro = [];
+    this.Habilidade = [];
 
     this.darksunFolder = (window.require("electron").app || window.require("electron").remote.app).getPath('documents') + '/Darksun';
 
@@ -18,6 +20,11 @@ class FileController {
 
       if (!fs.existsSync(folderPath)) {
         fs.mkdirSync(folderPath);
+        var jsonFolderPath = path.join(path.resolve(), 'public', 'json', folder);
+        if(fs.existsSync(jsonFolderPath)){
+          let files = fs.readdirSync(jsonFolderPath);
+          copyFiles(jsonFolderPath,folderPath,files);
+        } 
       }
 
       let files = fs.readdirSync(folderPath);
@@ -68,6 +75,12 @@ function parseDataFile(filePath, defaults) {
   } catch (error) {
     return defaults;
   }
+}
+
+function copyFiles(srcDir, destDir, files) {
+  return Promise.all(files.map(f => {
+     return copyFilePromise(path.join(srcDir, f), path.join(destDir, f));
+  }));
 }
 
 module.exports = FileController;
